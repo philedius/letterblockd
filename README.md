@@ -7,7 +7,7 @@ It's currently under review to be submitted to the Chrome webstore thing.
 
 In the meantime you can run it yourself with these steps:
 
-1.  Head on over to the [releases page](https://github.com/philedius/letterblockd/releases) and get the latest copy.
+1.  Head on over to the [releases page](https://github.com/philedius/letterblockd/releases) and get the latest copy (The zip file).
 2. Extract it wherever you want.
 2. Put `chrome://extensions` in the URL bar in Chrome.
 3. Toggle the "Developer Mode"

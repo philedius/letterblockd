@@ -1,5 +1,7 @@
 # Letterblockd
 
+![asdf](letterblockd-logo.png)
+
 A Chrome extension for blocking Letterboxd users that you don't want to see reviews from. It removes content on the site by all people you add to your list in the options.
 
 ## Cool, how do I install it?

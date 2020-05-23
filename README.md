@@ -11,7 +11,7 @@ A Chrome extension for blocking Letterboxd users that you don't want to see revi
 
 \*  in all or most places(early version, folks)
 
-You can still go their profile page, but you aren't going to see anything under "Reent activity", "Recent reviews" or "Popular reviews".
+You can still go their profile page, but you aren't going to see anything under "Recent activity", "Recent reviews" or "Popular reviews".
 
 ## Cool, how do I install it?
 It's currently under review to be submitted to the Chrome webstore thing.

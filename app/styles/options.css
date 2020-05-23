@@ -1,0 +1,54 @@
+#options-container {
+	display: flex;
+	max-width: 500px;
+	font-size: 20px;
+	line-height: 1.5;
+	color: #222;
+	margin: 2rem auto;
+	flex-direction: column;
+	padding: 1rem;
+}
+
+p:first-of-type {
+	margin-top: 0;
+}
+
+p {
+	text-align: justify;
+}
+
+textarea {
+	font-size: 20px;
+	font-family: "Segoe UI", Tahoma, sans-serif;
+	line-height: 1.5;
+	margin-top: 1.5rem;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: .5rem 1rem;
+}
+
+button {
+	width: 165px;
+	font-size: 15px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	line-height: 1.5;
+	margin: 1rem 0 0 0;
+	padding: .5rem;
+	border-radius: 100rem;
+	text-transform: uppercase;
+	background-color: #03cc8b;
+	border: none;
+	color: white;
+}
+
+#save-container {
+	display: flex;
+	margin-top: 1.75rem;
+}
+
+#status {
+	margin-top: 1.1rem;
+	margin-left: 2rem;
+	color: #222;
+}

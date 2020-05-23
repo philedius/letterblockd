@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Letterblockd",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "lboxd user block",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Block Letterboxd users that you don't want to see reviews from",
+    "description": "If you don't want to see content by some user on Letterboxd, then just add them to the list in the options. 🤙"
+  }
+}

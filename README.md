@@ -4,7 +4,7 @@
 
 A Chrome extension for blocking Letterboxd users that you don't want to see reviews from. It removes content on the site by all people you add to your list in the options.
 
-## What does it block by the user?
+## What does it block by the users I list in the options?
 - Reviews*
 - Lists*
 - Them being listed in lists of people*

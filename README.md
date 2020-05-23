@@ -29,7 +29,7 @@ In the meantime you can run it yourself with these steps:
 9. Enjoy a better Letterboxd experience.
 
 
-## 🚨 Holup! Now I dont see any reviews!
+## 🚨 Holup! Now I dont see *any* reviews!
 It doesn't load any new content to replace the removed content. So if you block a *whole* lot of people, especially popular ones, you ain't gonna see a bunch of reviews under "popular reviews" categories anymore. I made this extension basically as a band-aid until Letterboxd implements proper blocking themselves.
 
 
